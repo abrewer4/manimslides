@@ -1,6 +1,4 @@
----
-layout: default
----
+
 #Animations
 
 ## Year 7/8
