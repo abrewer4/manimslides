@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[How to Draw a Dot Plot](./DotPlotV2/index.html).
 
 There should be whitespace between paragraphs.
 
