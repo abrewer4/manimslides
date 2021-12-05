@@ -212,8 +212,10 @@ a {
     font-weight: normal;
     color: $section-headings-color;
   }
-  h1 {
+  
+  h1, h2 {
     font-weight: bold;
+    text-decoration: underline;
     color: #004422;
   }
 
