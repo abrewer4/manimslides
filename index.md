@@ -1,6 +1,4 @@
 
-# Animations
-
 ## Stage 5.3
 ### Polynomials
 * [Intro to Polynomials](./Projects/IntroToPolynomials/index.html).
