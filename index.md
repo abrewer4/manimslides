@@ -7,6 +7,6 @@
 
 
 ## Stage 4
-###Statistics
+### Statistics
 * [How to Draw a Dot Plot](./Projects/DrawingDotPlots/index.html).
 
