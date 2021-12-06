@@ -1,0 +1,21 @@
+<svg version="1.1"
+     width="512" height="512"
+     xmlns="http://www.w3.org/2000/svg"
+     style="width:512;height:512;stroke:#000;stroke-width:50;stroke-linecap:round;stroke-linejoin:round;fill:none;"
+     >
+    <polyline points="
+                40 220
+                75 220
+                170 430
+                240 100
+                475 100
+            "></polyline>
+    <polyline points="
+                285 220 
+                430 400
+            "></polyline>
+    <polyline points="
+                430 220 
+                285 400
+            "></polyline>
+  </svg>
