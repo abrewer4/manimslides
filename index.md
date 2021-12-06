@@ -6,3 +6,5 @@
 ### Statistics
 * [How to Draw a Dot Plot](./Projects/DrawingDotPlots/index.html).
 
+
+_Last Updated: 6/12/21_
