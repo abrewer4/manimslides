@@ -1,4 +1,4 @@
-#Maths stuff is here:
+# Maths stuff is here:
 ## Stage 5.3
 ### Polynomials
 * [Intro to Polynomials](./Projects/IntroToPolynomials/index.html).
